@@ -20,7 +20,7 @@ module.exports = {
       spaceId: 'l75dduawe65w',
       accessToken: 'tfq2pvYFDfbnNs_bNAgBgjlq_HhQXMYFdGO1R1GWIN8'
           }
-    }
+    },
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
